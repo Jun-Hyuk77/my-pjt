@@ -6,7 +6,7 @@
 2. 압축을 해제한다. 
 
 ### version
-- python 3. 8. 5
+- python 3. 8. 8
 - Django 2. 2
 
  RAEDME 는 전체 프로젝트에 대한 회고록, 피드백 가능
